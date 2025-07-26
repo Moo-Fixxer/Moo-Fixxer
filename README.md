@@ -27,12 +27,12 @@ One of my current ventures is Fixxer, a local job bidding platform designed to s
 ### 🚀 Projects:
 - 🛠 **Fixxer** – A job bidding platform for local services
 
-- ⚡ **spotify collaboration and popularity analysis** - Analyzed 20K+ Spotify tracks to evaluate how artist collaborations influence popularity and musical features
+- ⚡ **Ppotify Collaboration and Popularity Analysis** - Analyzed 20K+ Spotify tracks to evaluate how artist collaborations influence popularity and musical features
 Engineered features like is_collaboration and is_highly_popular; performed extensive EDA and hypothesis testing
 Built and evaluated Decision Tree and Random Forest models to predict popularity (Random Forest R² = 0.50)
 Found statistically significant differences in danceability and acousticness between solo and collaborative tracks
 
-- 🔭 **Ocean Oxygen Level analysis** - A machine learning and Data Science project to predict ocean oxygen levels based on depth, temperature, and salinity. Built with Python, pandas, and scikit-learn. Achieved R² = 0.82 using Random Forest Regression.
+- 🔭 **Ocean Oxygen Level Analysis** - A machine learning and Data Science project to predict ocean oxygen levels based on depth, temperature, and salinity. Built with Python, pandas, and scikit-learn. Achieved R² = 0.82 using Random Forest Regression.
 
 ---
 
