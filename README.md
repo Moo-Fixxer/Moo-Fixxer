@@ -32,7 +32,7 @@ Engineered features like is_collaboration and is_highly_popular; performed exten
 Built and evaluated Decision Tree and Random Forest models to predict popularity (Random Forest R² = 0.50)
 Found statistically significant differences in danceability and acousticness between solo and collaborative tracks
 
-- 🔭 **Ocean Oxygen Level analysis** - Machine learning and Data Science project predicting oceanic oxygen concentration based on depth, salinity, and temperature. Built Random Forest model (R² = 0.82) with cross-validation and EDA visualizations.
+- 🔭 **Ocean Oxygen Level analysis** - A machine learning and Data Science project to predict ocean oxygen levels based on depth, temperature, and salinity. Built with Python, pandas, and scikit-learn. Achieved R² = 0.82 using Random Forest Regression.
 
 ---
 
