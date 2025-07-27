@@ -4,8 +4,6 @@ I'm currently pursuing a B.Sc. (Hons.) in Data Science (Business) at York Univer
 
 I’m driven by the desire to create meaningful change through whatever I do. Whether that’s building a startup, launching a product, or analyzing patterns in data. I love working on projects that blend technology, creativity, and real-world impact.
 
-One of my current ventures is Fixxer, a local job bidding platform designed to simplify how people find and hire trusted service providers in their area.
-
 ---
 
 ### 🔧 Technologies I Work With
