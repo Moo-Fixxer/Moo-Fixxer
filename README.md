@@ -25,10 +25,21 @@ I’m driven by the desire to create meaningful change through whatever I do. Wh
 ### 🚀 Projects:
 - 🛠 **Fixxer** – A job bidding platform for local services
 
-- ⚡ **Spotify Collaboration and Popularity Analysis** - Analyzed 20K+ Spotify tracks to evaluate how artist collaborations influence popularity and musical features
-Engineered features like is_collaboration and is_highly_popular; performed extensive EDA and hypothesis testing
-Built and evaluated Decision Tree and Random Forest models to predict popularity (Random Forest R² = 0.50)
-Found statistically significant differences in danceability and acousticness between solo and collaborative tracks
+- ⚡ **Spotify Collaboration and Popularity Analysis**
+
+Role: Data Scientist / Analyst
+Tools: Python, Jupyter Notebook, pandas, NumPy, seaborn, matplotlib, scikit-learn
+ML Models: Random Forest Regression, Linear Regression
+
+-Modeled oceanic oxygen levels using environmental factors (depth, salinity, temperature)
+
+-Cleaned missing data, removed outliers with z-scores, normalized features using StandardScalerBuilt and compared regression models
+
+-Best result: Random Forest R² = 0.8222, MAE = 0.52
+
+-Used cross-validation and visualization (scatterplots, time series, correlation matrices) to support conclusions
+
+-Data Set Source: https://ssc.ca/en/case-study/analysis-historical-environmental-data-collected-ocean-gliders-gulf-saint-lawrence
 
 - 🔭 **Ocean Oxygen Level Analysis** - A machine learning and Data Science project to predict ocean oxygen levels based on depth, temperature, and salinity. Built with Python, pandas, and scikit-learn. Achieved R² = 0.82 using Random Forest Regression.
 
